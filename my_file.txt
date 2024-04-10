@@ -1,0 +1,6 @@
+First line
+Second line with a number: 42
+Third line with a float: 3.14
+Fourth line with a string: Hello!
+Fifth line with a number: 12345
+Sixth line with a float: 2.71828
